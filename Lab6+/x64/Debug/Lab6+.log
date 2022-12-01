@@ -1,0 +1,35 @@
+﻿  Lab6+.cpp
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(24,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(25,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(73,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(80,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(89,33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(90,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(125,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(129,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(150,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(151,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(157,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(158,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(190,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(191,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(198,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(199,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(233,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(235,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(236,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(242,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(244,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(245,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(282,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(284,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(285,21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(292,25): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(294,30): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(295,27): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Lab6+\Lab6+\Lab6+.cpp(330,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab6+.vcxproj -> U:\Documents\В ВУЗ\ООП\Lab6+\x64\Debug\Lab6+.exe
