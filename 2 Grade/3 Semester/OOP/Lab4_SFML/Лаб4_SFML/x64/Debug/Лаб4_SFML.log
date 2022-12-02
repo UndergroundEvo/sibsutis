@@ -1,0 +1,97 @@
+﻿  Лаб4_SFML.cpp
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(58,39): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(58,31): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(59,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(59,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(60,50): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(60,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(65,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(79,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(82,43): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(82,37): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(96,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(97,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(97,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(98,54): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(98,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(103,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(115,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(116,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(116,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(117,55): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(117,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(122,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(137,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(138,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(138,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(139,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(139,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(140,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(140,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(146,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(158,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(159,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(159,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(160,44): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(160,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(161,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(161,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(167,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+U:\Documents\В ВУЗ\ООП\Лаб4_SFML\Лаб4_SFML\Лаб4_SFML.cpp(174,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Лаб4_SFML.vcxproj -> U:\Documents\В ВУЗ\ООП\Лаб4_SFML\x64\Debug\Лаб4_SFML.exe
