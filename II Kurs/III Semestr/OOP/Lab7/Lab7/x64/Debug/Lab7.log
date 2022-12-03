@@ -1,0 +1,4 @@
+﻿  Lab7.cpp
+U:\Documents\В ВУЗ\ООП\Lab7\Lab7\Lab7\Lab7.cpp(30,20): warning C4101: num: неиспользованная локальная переменная
+U:\Documents\В ВУЗ\ООП\Lab7\Lab7\Lab7\Lab7.cpp(179,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab7.vcxproj -> U:\Documents\В ВУЗ\ООП\Lab7\Lab7\x64\Debug\Lab7.exe
